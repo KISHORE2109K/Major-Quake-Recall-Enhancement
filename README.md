@@ -169,7 +169,6 @@ This approach is practical for real-world seismic monitoring and can be expanded
 - Mentors: Dr. G. Bhuvaneswari, Arul Dalton G, Madhumitha N  
 - Saveetha Engineering College  
 
-GitHub: https://github.com/HEMAKESHG  
-LinkedIn: https://linkedin.com/in/hemakesh-g-714745285
+
 
 
